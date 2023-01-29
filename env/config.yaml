@@ -1,0 +1,5 @@
+username : "postgres"
+password : "test123"
+dbName : "postgres"
+dbHost : "172.28.88.56"
+dbPort : 5432
